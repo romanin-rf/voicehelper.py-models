@@ -1,4 +1,4 @@
 {
     "en-us_small": {"url": "https://github.com/romanin-rf/voicehelper.py-models/raw/main/models/en-us_small.zip", "version": "0.15"},
-    "ru_rus_small": {"url": "https://github.com/romanin-rf/voicehelper.py-models/raw/main/models/ru-rus_small.zip", "version": "0.22"}
+    "ru-rus_small": {"url": "https://github.com/romanin-rf/voicehelper.py-models/raw/main/models/ru-rus_small.zip", "version": "0.22"}
 }
